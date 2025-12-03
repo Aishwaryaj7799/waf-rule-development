@@ -1,0 +1,12 @@
+# WAF Rule Development Project
+
+This repository contains the WAF (Web Application Firewall) Rule Development project including:
+- Project report (WAF1.docx)
+- Custom ModSecurity rules
+- Screenshots
+- Testing steps and results
+
+Tools used:
+- Ubuntu (Apache2 server)
+- Kali Linux (attacker machine)
+- ModSecurity
